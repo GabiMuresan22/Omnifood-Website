@@ -37,6 +37,7 @@ Greys:
 --- 06 Border-Radius
 
 Default : 9px
+11px
 
 --- 07 Whitespace
 
@@ -173,4 +174,8 @@ body {
 
 .margin-right-sm {
   margin-right: 1.6rem !important;
+}
+
+strong {
+  font-weight: 500;
 }
