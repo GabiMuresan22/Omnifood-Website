@@ -140,3 +140,57 @@ Privacy & terms
 - Pricing + features
 - CTA
 - Footer
+
+<div class="pricing-plan-1">
+            <div class="plan-header">
+              <p class="plan-name">Starter</p>
+              <p class="plan-price"><span>$</span>399</p>
+              <p class="plan-text">per mont. That's just $13 per meal!</p>
+            </div>
+            
+            <ul class="list">
+              <li class="list-item">
+                <ion-icon name="checkmark-outline" class="list-icon"></ion-icon
+                ><span>1 meal per day</span>
+              </li>
+              <li class="list-item">
+                <ion-icon name="checkmark-outline" class="list-icon"></ion-icon
+                ><span>Orde time are between 11am and 9pm</span>
+              </li>
+              <li class="list-item">
+                <ion-icon name="checkmark-outline" class="list-icon"></ion-icon
+                ><span>Delivery is free</span>
+              </li>
+            </ul>
+            <a href="#" class="btn btn--full"
+              >Start eating well</a
+          </div>
+
+<div class="pricing-plan">
+              <header class="plan-header">
+                <p class="plan-name">Complete</p>
+                <p class="plan-price"><span>$</span>649</p>
+                <p class="plan-text">per mont. That's just $11 per meal!</p>
+            </header>
+            
+            <ul class="list">
+              <li class="list-item">
+                <ion-icon name="checkmark-outline" class="list-icon"></ion-icon
+                ><span>2 meals per day</span>
+              </li>
+              <li class="list-item">
+                <ion-icon name="checkmark-outline" class="list-icon"></ion-icon
+                ><span>Orde time 24/7</span>
+              </li>
+              <li class="list-item">
+                <ion-icon name="checkmark-outline" class="list-icon"></ion-icon
+                ><span>Delivery is free</span>
+              </li>
+              <li class="list-item">
+                <ion-icon name="checkmark-outline" class="list-icon"></ion-icon
+                ><span>Get access to latest recipes</span>
+              </li>
+            </ul>
+            <a href="#" class="btn btn--full"
+              >Start eating well</a>
+          </div>
