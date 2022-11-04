@@ -92,16 +92,16 @@
           </div>
 
           <div class="hero-img-box">
-            <img>
+            <picture>
+              <img />
               <source srcset="img/hero.webp" type="image/webp" />
               <source srcset="img/hero-compressed.png" type="image/png" />
               <img
-              src="img/hero.webp"
-              alt="Women enjoying food, meals in storage container, and food bowls on a table"
-              class="hero-img"
-            />
+                src="img/hero.webp"
+                alt="Women enjoying food, meals in storage container, and food bowls on a table"
+                class="hero-img"
+              />
             </picture>
-          
           </div>
         </div>
       </section>
@@ -575,7 +575,8 @@
                   <label for="full-name">Full Name</label>
                   <input
                     id="full-name"
-                    type="text" name="full-name"
+                    type="text"
+                    name="full-name"
                     placeholder="Your name"
                     required
                   />
